@@ -1,0 +1,5 @@
+1. Crescimento Mensal da Adoção do Pix (Total, PF e PJ)
+
+    Mostrar a evolução percentual mês a mês, separando PF e PJ.
+
+    Valor estratégico: Identificar tendências de crescimento, períodos de aceleração ou estagnação.
